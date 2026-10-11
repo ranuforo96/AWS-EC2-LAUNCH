@@ -34,3 +34,7 @@ Next, verify the selected AMI and its eligibility for any applicable Free Tier b
 Then, under Architecture, choose the processor architecture supported by your selected AMI
 
 <img width="858" height="206" alt="image" src="https://github.com/user-attachments/assets/05cb2bd0-657b-4f59-97ce-668f87ce210c" />
+
+Navigate down the page to the Instance type section. Here, you can choose from various configurations that differ in processing power (CPUs), storage capacity, and pricing
+
+<img width="878" height="577" alt="image" src="https://github.com/user-attachments/assets/1780f023-d8dd-414f-b4d1-66dce76fa112" />
