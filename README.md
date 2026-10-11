@@ -15,3 +15,17 @@ Once the page has load you should then right click the Launch instances tab in o
 
 Once the Launch Instances page has loaded, you can now begin the configuration processes for the EC2 
 
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd404fcc-2fc9-4f02-ba18-f808ce3fe907" />
+
+First, you must enter a name for your instance, such as My First EC2. Optionally, you can add tags to help organize and identify your resources
+
+<img width="879" height="219" alt="image" src="https://github.com/user-attachments/assets/fce6b178-8eca-4a29-9129-2fec85a57bf6" />
+
+Next, you must choose an Amazon Machine Image (AMI).  An AMI is a template that contains the operating system and other software used to launch your instance
+
+You can search through the catalog of applications and OS images but I will be using the Quick Start section, where I will choose Amazon Linux provided by AWS
+
+
+
+
+
