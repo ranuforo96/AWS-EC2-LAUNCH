@@ -7,4 +7,11 @@ First, log in to your management console and search for EC2 in the search bar
 
 In the left navigation pane, under the Instances drop-down, select instances
 
-<img width="958" height="1075" alt="image" src="https://github.com/user-attachments/assets/51f04124-b97d-41e8-8d62-cef4a0528f18" />
+<img width="957" height="1075" alt="image" src="https://github.com/user-attachments/assets/5f22f1a2-c304-4ef4-8d65-802e11bf045b" />
+
+Once the page has load you should then right click the Launch instances tab in orange
+
+<img width="957" height="1077" alt="image" src="https://github.com/user-attachments/assets/6ac81794-a104-4fb1-b081-1c10e6736868" />
+
+Once the Launch Instances page has loaded, you can now begin the configuration processes for the EC2 
+
