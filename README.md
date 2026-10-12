@@ -65,7 +65,15 @@ Alternatively, select the .ppk format if you are using older Windows environment
 
 When you create an EC2 key pair, the downloaded file is your private key file (saved with either a .pem or .ppk extension, depending on the format you selected), as seen in the image above
 
-As for the Network settings portion of the EC2 configuration, you need first to review the Network VPC and Subnet selections, and lastly your pubic IP
+As for the Network settings portion of the EC2 configuration, you need first to review the Network VPC, Subnet selections, and lastly your pubic IP
 
 <img width="865" height="286" alt="image" src="https://github.com/user-attachments/assets/97168e59-f1fd-4919-a059-821a7333d079" />
+
+The first security group created will be called "launch-wizard-1". You also need to configure the Firewall in the Network settings by adding rules that will control traffic to and from our instance. The first rule that will need to be set is to allow SSH traffic from anywhere
+
+<img width="858" height="231" alt="image" src="https://github.com/user-attachments/assets/220dea9f-fe6e-4ac9-9468-eaed5444eb4a" />
+
+Then we also want to allow HTTP traffic from the internet. This is needed because we will be launching a web server on our EC2 instance. Check the box and continue to the Configure storage section
+
+<img width="958" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9d49fa2-9855-499f-815f-7e126ecabf8c" />
 
