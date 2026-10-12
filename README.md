@@ -77,3 +77,7 @@ Then we also want to allow HTTP traffic from the internet. This is needed becaus
 
 <img width="958" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9d49fa2-9855-499f-815f-7e126ecabf8c" />
 
+In Configure storage, we will be leaving the settings as is: 8 GiB gp2 Root volume, 3000 Input/Output Operations Per Second (IOPS)
+
+<img width="877" height="265" alt="image" src="https://github.com/user-attachments/assets/71a5791a-11de-48f6-a2ae-da42f4a9c0c6" />
+
