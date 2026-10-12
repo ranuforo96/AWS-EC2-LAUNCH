@@ -39,5 +39,12 @@ Navigate down the page to the Instance type section. Here, you can choose from v
 
 <img width="878" height="577" alt="image" src="https://github.com/user-attachments/assets/1780f023-d8dd-414f-b4d1-66dce76fa112" />
 
-Then you will need to create a new key pair to connect to your instance securely
+Then you will need to create a new key pair to connect to your instance securely. However, you can proceed without one
+
+<img width="1024" height="353" alt="image" src="https://github.com/user-attachments/assets/b04ef666-4386-4fe3-b990-f8b74ce1d15e" />
+
+Moving on with the creation, select Create new key pair, circled in red in the image above
+
+
+
 
