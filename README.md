@@ -63,5 +63,8 @@ Alternatively, select the .ppk format if you are using older Windows environment
 
 <img width="549" height="235" alt="image" src="https://github.com/user-attachments/assets/a7e9994c-aed7-47db-beb3-50bea3980320" />
 
-When you create an EC2 key pair, the downloaded file is your private key file (saved with either a .pem or .ppk extension, depending on the format you selected)
+When you create an EC2 key pair, the downloaded file is your private key file (saved with either a .pem or .ppk extension, depending on the format you selected), as seen in the image above
 
+As for the Network settings portion of the EC2 configuration, you need first to review the Network VPC and Subnet selections, and lastly your pubic IP
+
+<img width="865" height="286" alt="image" src="https://github.com/user-attachments/assets/97168e59-f1fd-4919-a059-821a7333d079" />
