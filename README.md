@@ -68,3 +68,4 @@ When you create an EC2 key pair, the downloaded file is your private key file (s
 As for the Network settings portion of the EC2 configuration, you need first to review the Network VPC and Subnet selections, and lastly your pubic IP
 
 <img width="865" height="286" alt="image" src="https://github.com/user-attachments/assets/97168e59-f1fd-4919-a059-821a7333d079" />
+
