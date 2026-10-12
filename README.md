@@ -45,6 +45,9 @@ Then you will need to create a new key pair to connect to your instance securely
 
 Moving on with the creation, select Create new key pair, circled in red in the image above
 
+<img width="959" height="1079" alt="image" src="https://github.com/user-attachments/assets/4fd845ca-9adb-4c05-b49f-c0ddf918c5c0" />
 
+Then, when prompted, enter a name for the key pair, such as EC2 Tutorial
 
+<img width="747" height="190" alt="image" src="https://github.com/user-attachments/assets/1b789ffd-0ec9-45c2-946a-43ab9ef97d37" />
 
