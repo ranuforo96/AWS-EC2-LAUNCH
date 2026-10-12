@@ -38,3 +38,6 @@ Then, under Architecture, choose the processor architecture supported by your se
 Navigate down the page to the Instance type section. Here, you can choose from various configurations that differ in processing power (CPUs), storage capacity, and pricing
 
 <img width="878" height="577" alt="image" src="https://github.com/user-attachments/assets/1780f023-d8dd-414f-b4d1-66dce76fa112" />
+
+Then you will need to create a new key pair to connect to your instance securely
+
