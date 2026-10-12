@@ -51,3 +51,17 @@ Then, when prompted, enter a name for the key pair, such as EC2 Tutorial
 
 <img width="747" height="190" alt="image" src="https://github.com/user-attachments/assets/1b789ffd-0ec9-45c2-946a-43ab9ef97d37" />
 
+You can then choose between two key pair types: RSA or ED25519
+
+<img width="715" height="124" alt="image" src="https://github.com/user-attachments/assets/e1f0d6c8-b026-45e3-b5f5-4f091d13b771" />
+
+Select the private key file format that matches your operating system. Choose the .pem format if you are using macOS, Linux, or Windows 10 and newer, as it provides broad compatibility across modern systems. 
+
+Alternatively, select the .ppk format if you are using older Windows environments, such as Windows 7 or 8, which require PuTTY for SSH connections. Once you have made your selection, click Create key pair to generate and save your credentials
+
+<img width="754" height="365" alt="image" src="https://github.com/user-attachments/assets/3744d13d-3104-4e4b-9450-243ad73d37c1" />
+
+<img width="549" height="235" alt="image" src="https://github.com/user-attachments/assets/a7e9994c-aed7-47db-beb3-50bea3980320" />
+
+When you create an EC2 key pair, the downloaded file is your private key file (saved with either a .pem or .ppk extension, depending on the format you selected)
+
