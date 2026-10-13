@@ -118,3 +118,14 @@ Scrolling down reveals additional details, including the hostname, private DNS, 
 <img width="1917" height="507" alt="image" src="https://github.com/user-attachments/assets/fa93d6a7-fe9f-4109-9f78-54ec6804a920" />
 
 <img width="589" height="439" alt="image" src="https://github.com/user-attachments/assets/120f2e0b-1281-4388-9391-9a75b2bc3579" />
+
+Moving on, we also have the Security tab that holds info on the security group that was created named launch wizard 1.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f76dace-b42e-4f3c-bd48-b59f3bbd59d1" />
+
+Security tab also displays the inbounds rules:
+
+The inbound rules staes that port 22 and 80 are accessible from anywhere via the Source
+
+<img width="1598" height="281" alt="image" src="https://github.com/user-attachments/assets/9ee86a63-1869-4def-912b-3707c0d6a8af" />
+
