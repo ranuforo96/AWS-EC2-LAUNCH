@@ -101,5 +101,9 @@ You should receive the banner indicating that your instance was successfully lau
 
 To confirm this, you can toggle back over to the left navigation pane and right-click instances
 
+Here you can see the EC2; "My First EC2" was launched and the instance state is now Running
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/380581d3-30a1-44b3-8cc2-481b8edc9f6f" />
+
+
 
