@@ -89,4 +89,5 @@ User data is a script or set of commands that runs automatically on your instanc
 
 <img width="925" height="766" alt="image" src="https://github.com/user-attachments/assets/76087854-2b9b-4e1b-aecb-2ae2dbb20b30" />
 
-What this script will do process some updates, then it will install the httpd web server, and lastly it will create an HTML file that will be my web server
+This script performs system updates, installs and starts the Apache HTTPD server, configures it to launch automatically on boot, and creates a basic 'Hello World' web page
+
