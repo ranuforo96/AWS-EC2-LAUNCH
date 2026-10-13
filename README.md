@@ -119,7 +119,7 @@ Scrolling down reveals additional details, including the hostname, private DNS, 
 
 <img width="589" height="439" alt="image" src="https://github.com/user-attachments/assets/120f2e0b-1281-4388-9391-9a75b2bc3579" />
 
-Moving on, we also have the Security tab that holds info on the security group that was created named launch wizard 1.
+Moving on, we also have the Security tab that holds info on the security group that was created named launch wizard 1
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f76dace-b42e-4f3c-bd48-b59f3bbd59d1" />
 
@@ -129,3 +129,6 @@ Inbound security rules permit traffic on ports 22 (SSH) and 80 (HTTP) from the 0
 
 <img width="1598" height="281" alt="image" src="https://github.com/user-attachments/assets/9ee86a63-1869-4def-912b-3707c0d6a8af" />
 
+The outbound rule is set to the default configuration, permitting all outbound traffic from the instance to any IPv4 address:
+
+<img width="1555" height="251" alt="image" src="https://github.com/user-attachments/assets/ff78c013-70a1-4d17-936e-7ecef21d73d2" />
