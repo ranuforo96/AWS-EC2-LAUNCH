@@ -111,9 +111,10 @@ In this tab, you can find the instance ID, the public IPv4 address, which will b
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2382ffe-ee54-4b6f-9c6f-32d3e70412d7" />
 
-Scrolling down reveals additional details, including the hostname, private DNS, instance type, AMI in use, and associated key pair
+Scrolling down reveals additional details, including the hostname, private DNS, instance type, AMI in use, and associated key pair seen in the screenshots below:
 
 <img width="1920" height="501" alt="image" src="https://github.com/user-attachments/assets/049688f2-6999-43c5-8e8a-6a203cbc6502" />
 
 <img width="1917" height="507" alt="image" src="https://github.com/user-attachments/assets/fa93d6a7-fe9f-4109-9f78-54ec6804a920" />
 
+<img width="589" height="439" alt="image" src="https://github.com/user-attachments/assets/120f2e0b-1281-4388-9391-9a75b2bc3579" />
