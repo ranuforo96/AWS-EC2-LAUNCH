@@ -132,3 +132,9 @@ Inbound security rules permit traffic on ports 22 (SSH) and 80 (HTTP) from the 0
 The outbound rule is set to the default configuration, permitting all outbound traffic from the instance to any IPv4 address:
 
 <img width="1555" height="251" alt="image" src="https://github.com/user-attachments/assets/ff78c013-70a1-4d17-936e-7ecef21d73d2" />
+
+Next, there is also a Storage tab view of our launched instance
+
+<img width="1917" height="510" alt="image" src="https://github.com/user-attachments/assets/cca9df74-bb36-4048-affa-387e9ca4488d" />
+
+
