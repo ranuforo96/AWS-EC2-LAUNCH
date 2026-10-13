@@ -133,8 +133,11 @@ The outbound rule is set to the default configuration, permitting all outbound t
 
 <img width="1555" height="251" alt="image" src="https://github.com/user-attachments/assets/ff78c013-70a1-4d17-936e-7ecef21d73d2" />
 
-Next, there is also a Storage tab view of our launched instance
+The following image displays the instance's storage configuration under the Storage tab
 
 <img width="1917" height="510" alt="image" src="https://github.com/user-attachments/assets/cca9df74-bb36-4048-affa-387e9ca4488d" />
 
+The block device section shows an 8 GiB storage volume attached to the instance at /dev/xvda with an active state of "In-use"
+
+<img width="1592" height="250" alt="image" src="https://github.com/user-attachments/assets/1a76be13-0911-4268-9092-5b1b3b812ba2" />
 
