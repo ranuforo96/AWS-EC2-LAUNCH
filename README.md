@@ -73,11 +73,20 @@ The first security group created will be called "launch-wizard-1". You also need
 
 <img width="858" height="231" alt="image" src="https://github.com/user-attachments/assets/220dea9f-fe6e-4ac9-9468-eaed5444eb4a" />
 
-Then we also want to allow HTTP traffic from the internet. This is needed because we will be launching a web server on our EC2 instance. Check the box and continue to the Configure storage section
+Then we also want to allow HTTP traffic from the internet. This is necessary because we will be launching a web server on our EC2 instance. Check the box and continue to the Configure storage section
 
 <img width="958" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9d49fa2-9855-499f-815f-7e126ecabf8c" />
 
-In Configure storage, we will be leaving the settings as is: 8 GiB gp3 Root volume, 3000 Input/Output Operations Per Second (IOPS)
+In Configure storage, we will leave the settings as is: 8 GiB gp3 Root volume, 3000 Input/Output Operations Per Second (IOPS), and we can leave File systems selection on none
 
 <img width="877" height="265" alt="image" src="https://github.com/user-attachments/assets/71a5791a-11de-48f6-a2ae-da42f4a9c0c6" />
 
+Moving on, under Advanced details we are going to skip down the page until you see User data. 
+
+<img width="928" height="767" alt="image" src="https://github.com/user-attachments/assets/5aa6eb7f-ed21-42bb-9871-3b1ab0976809" />
+
+User data is a script or set of commands that runs automatically on your instance when it boots up for the first time
+
+<img width="925" height="766" alt="image" src="https://github.com/user-attachments/assets/76087854-2b9b-4e1b-aecb-2ae2dbb20b30" />
+
+What this script will do process some updates, then it will install the httpd web server, and lastly it will create an HTML file that will be my web server
