@@ -125,7 +125,7 @@ Moving on, we also have the Security tab that holds info on the security group t
 
 Security tab also displays the inbounds rules:
 
-The inbound rules staes that port 22 and 80 are accessible from anywhere via the Source
+Inbound security rules permit traffic on ports 22 (SSH) and 80 (HTTP) from the 0.0.0.0/0 (anywhere) source IP
 
 <img width="1598" height="281" alt="image" src="https://github.com/user-attachments/assets/9ee86a63-1869-4def-912b-3707c0d6a8af" />
 
