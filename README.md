@@ -91,7 +91,15 @@ User data is a script or set of commands that runs automatically on your instanc
 
 This script performs system updates, installs and starts the Apache HTTPD server, configures it to launch automatically on boot, and creates a basic 'Hello World' web page
 
-Finally, we have the Summary section, which is a review of everything you configured up above
+Finally, we have the Summary section, which is a review of everything you configured above. once you have reviewed the information you can Launch the instance
 
-<img width="958" height="1078" alt="image" src="https://github.com/user-attachments/assets/3d329896-d91c-4c76-91ba-68d0f73d4f43" />
+<img width="963" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cf49e49-4ef3-41ff-b5c3-e68afbc4825c" />
+
+You should receive the banner indicating that your instance was successfully launched
+
+<img width="961" height="1080" alt="image" src="https://github.com/user-attachments/assets/b245e012-2767-42d4-b236-b83256672a07" />
+
+To confirm this, you can toggle back over to the left navigation pane and right-click instances
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/380581d3-30a1-44b3-8cc2-481b8edc9f6f" />
 
