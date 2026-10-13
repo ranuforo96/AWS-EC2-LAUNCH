@@ -105,5 +105,15 @@ Here you can see the EC2; "My First EC2" was launched and the instance state is 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/380581d3-30a1-44b3-8cc2-481b8edc9f6f" />
 
+When you click on the newly created instance, you can view more information about the EC2 in the Details tab
 
+In this tab, you can find the instance ID, the public IPv4 address, which will be used to access our EC2 instance, and the private IPv4 address, which is used to gain access internally on the AWS network privately
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2382ffe-ee54-4b6f-9c6f-32d3e70412d7" />
+
+Scrolling down reveals additional details, including the hostname, private DNS, instance type, AMI in use, and associated key pair
+
+<img width="1920" height="501" alt="image" src="https://github.com/user-attachments/assets/049688f2-6999-43c5-8e8a-6a203cbc6502" />
+
+<img width="1917" height="507" alt="image" src="https://github.com/user-attachments/assets/fa93d6a7-fe9f-4109-9f78-54ec6804a920" />
 
