@@ -141,3 +141,5 @@ The instance has a single 8 GiB storage volume attached, mounted at /dev/xvda an
 
 <img width="1592" height="250" alt="image" src="https://github.com/user-attachments/assets/1a76be13-0911-4268-9092-5b1b3b812ba2" />
 
+After reviewing the details, security, and storage tabs, we can now open the web server running on the instance
+
