@@ -101,17 +101,17 @@ You should receive the banner indicating that your instance was successfully lau
 
 To confirm this, you can toggle back over to the left navigation pane and right-click instances
 
-Here you can see the EC2; "My First EC2" was launched and the instance state is now Running
+Here you can see the EC2; "My First EC2" was launched, and the instance state is now Running
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/380581d3-30a1-44b3-8cc2-481b8edc9f6f" />
 
-When you click on the newly created instance, you can view more information about the EC2 in the Details tab
+When you click on the newly created instance, you can view more information about the EC2 instance in the Details tab
 
 In this tab, you can find the instance ID, the public IPv4 address, which will be used to access our EC2 instance, and the private IPv4 address, which is used to gain access internally on the AWS network privately
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2382ffe-ee54-4b6f-9c6f-32d3e70412d7" />
 
-Scrolling down reveals additional details, including the hostname, private DNS, instance type, AMI in use, and associated key pair seen in the screenshots below:
+Scrolling down reveals additional details, including the hostname, private DNS, instance type, AMI in use, and associated key pair, as seen in the screenshots below:
 
 <img width="1920" height="501" alt="image" src="https://github.com/user-attachments/assets/049688f2-6999-43c5-8e8a-6a203cbc6502" />
 
@@ -143,10 +143,16 @@ The instance has a single 8 GiB storage volume attached, mounted at /dev/xvda an
 
 After reviewing the details, security, and storage tabs, we can now open the web server running on the instance
 
-You want to navigate back to the details tab and copy the Public IPv4 address and simply paste it into the address bar of a new web browser which is demonstrated in the screenshots below
+You want to navigate back to the Details tab and copy the Public IPv4 address and simply paste it into the address bar of a new web browser as demonstrated in the screenshots below
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6cfc826-02e9-4009-b3aa-8fceedef50c3" />
 
 <img width="1920" height="442" alt="image" src="https://github.com/user-attachments/assets/db0a5d08-d4b7-421e-9cfa-977dc0689b68" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7faae7-7f5d-4a8a-a131-be25429ec8f5" />
+
+However, if you have trouble accessing the server, make sure to input http:// before the address
+
+<img width="963" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3479537-9bd6-48bc-bd1f-f23796b0a7b2" />
+
+What should be displayed when opened 
