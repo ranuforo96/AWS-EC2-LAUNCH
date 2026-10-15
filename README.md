@@ -143,7 +143,7 @@ The instance has a single 8 GiB storage volume attached, mounted at /dev/xvda an
 
 After reviewing the details, security, and storage tabs, we can now open the web server running on the instance
 
-You want to navigate back to the details tab and copy the Public IPv4 address and simply paste it into the address bar of a new web browser
+You want to navigate back to the details tab and copy the Public IPv4 address and simply paste it into the address bar of a new web browser which is demonstrated in the screenshots below
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6cfc826-02e9-4009-b3aa-8fceedef50c3" />
 
