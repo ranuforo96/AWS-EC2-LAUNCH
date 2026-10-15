@@ -149,10 +149,10 @@ You want to navigate back to the Details tab and copy the Public IPv4 address an
 
 <img width="1920" height="442" alt="image" src="https://github.com/user-attachments/assets/db0a5d08-d4b7-421e-9cfa-977dc0689b68" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7faae7-7f5d-4a8a-a131-be25429ec8f5" />
-
 However, if you have trouble accessing the server, make sure to input http:// before the address
 
 <img width="963" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3479537-9bd6-48bc-bd1f-f23796b0a7b2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7faae7-7f5d-4a8a-a131-be25429ec8f5" />
 
 What should be displayed when opened 
