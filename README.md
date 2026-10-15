@@ -159,3 +159,10 @@ What should be displayed when opened is the Hello World message that was entered
 
 <img width="207" height="56" alt="image" src="https://github.com/user-attachments/assets/89899e2f-7845-4cfe-8fcc-8719892dbee3" />
 
+To prevent unnecessary charges, stop the instance when it's not in use by choosing Stop instance under the Instance state menu
+
+Another pop-up will show, which will allow you to finalize the instance stop
+
+<img width="957" height="600" alt="image" src="https://github.com/user-attachments/assets/24da2e69-2a9e-46fb-9083-87c31ab700c7" />
+
+Once selected 
