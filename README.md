@@ -155,4 +155,7 @@ However, if you have trouble accessing the server, make sure to input http:// be
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af7faae7-7f5d-4a8a-a131-be25429ec8f5" />
 
-What should be displayed when opened 
+What should be displayed when opened is the Hello World message that was entered into the user data box earlier, along with the  Private IPv4 address
+
+<img width="207" height="56" alt="image" src="https://github.com/user-attachments/assets/89899e2f-7845-4cfe-8fcc-8719892dbee3" />
+
