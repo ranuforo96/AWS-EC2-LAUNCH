@@ -161,8 +161,22 @@ What should be displayed when opened is the Hello World message that was entered
 
 To prevent unnecessary charges, stop the instance when it's not in use by choosing Stop instance under the Instance state menu
 
-Another pop-up will show, which will allow you to finalize the instance stop
-
 <img width="957" height="600" alt="image" src="https://github.com/user-attachments/assets/24da2e69-2a9e-46fb-9083-87c31ab700c7" />
 
-Once selected 
+Once selected, another pop-up will show, which will allow you to finalize the instance stop
+
+<img width="658" height="818" alt="image" src="https://github.com/user-attachments/assets/ddb9a87f-c5fd-460e-8dc7-40b2c336aea7" />
+
+Your instance state should now display Stopped, and to confirm, refreshing your web server should give you an access error similar to the screenshot below:
+
+<img width="963" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cf22d39-87ef-4d3b-bb0c-d7f4cd9a396a" />
+
+When restarted, you may receive a new Public IPv4 address. Copy the new address and paste it into the address bar
+
+<img width="648" height="930" alt="image" src="https://github.com/user-attachments/assets/c23a1276-638f-4c21-af1d-f2a2663ca217" />
+
+Also, if the instance is not needed anymore, it can be terminated by clicking the Instance state drop-down and selecting Terminate 
+
+<img width="300" height="242" alt="image" src="https://github.com/user-attachments/assets/5f71932d-76f3-422b-ade2-cfa9946a28e8" />
+
+<img width="630" height="647" alt="image" src="https://github.com/user-attachments/assets/ee0f6d92-1d84-48bb-ad20-b3d89f5c65ec" />
