@@ -171,7 +171,7 @@ Your instance state should now display Stopped, and to confirm, refreshing your 
 
 <img width="963" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cf22d39-87ef-4d3b-bb0c-d7f4cd9a396a" />
 
-When restarted, you may receive a new Public IPv4 address. Copy the new address and paste it into the address bar
+When restarted, you may receive a new Public IPv4 address. Copy the new address and paste it into the address bar. Keep in mind your Privte IP will always stay the same
 
 <img width="648" height="930" alt="image" src="https://github.com/user-attachments/assets/c23a1276-638f-4c21-af1d-f2a2663ca217" />
 
